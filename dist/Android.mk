@@ -11,6 +11,7 @@ LOCAL_PATH:= $(call my-dir)
 #   SQLITE_ENABLE_FTS3   enables usage of FTS3 - NOT FTS1 or 2.
 #   SQLITE_DEFAULT_AUTOVACUUM=1  causes the databases to be subject to auto-vacuum
 minimal_sqlite_flags := \
+	-O2 \
 	-DNDEBUG=1 \
 	-DHAVE_USLEEP=1 \
 	-DSQLITE_HAVE_ISNAN \
