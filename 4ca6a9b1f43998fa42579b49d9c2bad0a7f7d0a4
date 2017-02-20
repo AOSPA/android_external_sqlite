@@ -1,0 +1,8 @@
+Code-Review+2: Alex Naidis <alex.naidis@linux.com>
+Code-Review+2: Park Ju Hyung <qkrwngud825@gmail.com>
+Verified+1: Alex Naidis <alex.naidis@linux.com>
+Submitted-by: Alex Naidis <alex.naidis@linux.com>
+Submitted-at: Mon, 20 Feb 2017 14:13:28 +0000
+Reviewed-on: https://gerrit.aospa.co/1673
+Project: AOSPA/android_external_sqlite
+Branch: refs/heads/nougat-mr1
